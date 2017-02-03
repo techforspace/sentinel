@@ -3,6 +3,7 @@
 This repository will contain the interactive tutorials, in the form of Jupyter Notebooks that will serve as training material to learn Image Processing in Python and exploiting the official ESA open source toolbox called SNAP.
 Each tutorial is included in a .ZIP archive that will contain all the files required to properly run the current Jupyter Notebook. 
 The user should download the .ZIP archive and extract all its files in the current working directory of his Jupyter version.
+In order to provide a complete explanation of the topics each Jupyter Notebook will be provided with its PDF version that will allows the user to look at all the contents without running any line of Python code.
 
 Once the user will have his own account he will be able to download the product by using its link that is provided in the tutorial.
 ### How to access the Sentinels data products
