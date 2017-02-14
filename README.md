@@ -33,3 +33,7 @@ For Python support or for any technical problem with the Jupyter Notebooks, the 
 If you are looking for additional information about the installation of snappy, please refer to the [official dedicated page](https://senbox.atlassian.net/wiki/display/SNAP/Configure+Python+to+use+the+SNAP-Python+%28snappy%29+interface) on the SNAP Developer Guide website.
 
 You can also contact us for additional questions through our website or using this address: contact at techforspace.com
+
+## Licensing
+
+The source code of our tutorials is available under the MIT license, about which you can find more information [here](https://tldrlegal.com/license/mit-license). The documentation associated to the tutorials is available under the Creative Commons License 4.0 (CC BY 4.0), presented in details on the [official website](https://creativecommons.org/licenses/by/4.0/).
