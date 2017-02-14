@@ -29,3 +29,7 @@ When all these instructions will have been successfully completed, the user will
 All the instructions required for a successful configuration of Python and its SNAP module can be found on the [dedicated article at TechForSpace](https://www.techforspace.com/missions/sentinels/sentinel-space-imagery-part-1-installing-snap-and-the-python-snappy-module/)
 
 For Python support or for any technical problem with the Jupyter Notebooks, the official Tech for Space contacts can be found in the [official page](https://www.techforspace.com/project/sentinels-earth-observation/) of the project. 
+
+If you are looking for additional information about the installation of snappy, please refer to the [official dedicated page](https://senbox.atlassian.net/wiki/display/SNAP/Configure+Python+to+use+the+SNAP-Python+%28snappy%29+interface) on the SNAP Developer Guide website.
+
+You can also contact us for additional questions through our website or using this address: contact at techforspace.com
